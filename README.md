@@ -2,6 +2,13 @@
 
 Bem-vindo ao Criador de Lista de Compras do Supermercado! Este é um simples script em JavaScript que permite que você capture 10 itens para compor a sua lista de compras. Após capturar os itens, eles serão exibidos separados por vírgula.
 
+## Conteúdos Abordados 📚
+
+- Uso de loops (for)
+- Manipulação de arrays
+- Interatividade com o usuário
+- Saída de dados formatada
+
 ## Como Usar 🛍️
 
 1. Abra o console do seu navegador ou execute o código em um ambiente JavaScript.
